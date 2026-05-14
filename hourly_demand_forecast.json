@@ -1,0 +1,122 @@
+{
+  "0": {
+    "demand": 65.92571262434085,
+    "light_drones_needed": 4,
+    "heavy_drones_needed": 0
+  },
+  "1": {
+    "demand": 38.57874265045914,
+    "light_drones_needed": 2,
+    "heavy_drones_needed": 0
+  },
+  "2": {
+    "demand": 30.590614944048824,
+    "light_drones_needed": 2,
+    "heavy_drones_needed": 0
+  },
+  "3": {
+    "demand": 11.21483667132205,
+    "light_drones_needed": 1,
+    "heavy_drones_needed": 0
+  },
+  "4": {
+    "demand": 7.766116550035985,
+    "light_drones_needed": 1,
+    "heavy_drones_needed": 0
+  },
+  "5": {
+    "demand": 26.75775351038739,
+    "light_drones_needed": 2,
+    "heavy_drones_needed": 0
+  },
+  "6": {
+    "demand": 83.1190267597587,
+    "light_drones_needed": 5,
+    "heavy_drones_needed": 0
+  },
+  "7": {
+    "demand": 233.41767409734516,
+    "light_drones_needed": 12,
+    "heavy_drones_needed": 5
+  },
+  "8": {
+    "demand": 394.4018096997233,
+    "light_drones_needed": 20,
+    "heavy_drones_needed": 10
+  },
+  "9": {
+    "demand": 227.76893481412947,
+    "light_drones_needed": 12,
+    "heavy_drones_needed": 5
+  },
+  "10": {
+    "demand": 212.6291258398881,
+    "light_drones_needed": 11,
+    "heavy_drones_needed": 4
+  },
+  "11": {
+    "demand": 218.51321799796887,
+    "light_drones_needed": 11,
+    "heavy_drones_needed": 4
+  },
+  "12": {
+    "demand": 244.11466270774415,
+    "light_drones_needed": 13,
+    "heavy_drones_needed": 5
+  },
+  "13": {
+    "demand": 244.66203317925644,
+    "light_drones_needed": 13,
+    "heavy_drones_needed": 5
+  },
+  "14": {
+    "demand": 245.39525810133586,
+    "light_drones_needed": 13,
+    "heavy_drones_needed": 5
+  },
+  "15": {
+    "demand": 245.58636073091765,
+    "light_drones_needed": 13,
+    "heavy_drones_needed": 5
+  },
+  "16": {
+    "demand": 278.07049222063137,
+    "light_drones_needed": 14,
+    "heavy_drones_needed": 6
+  },
+  "17": {
+    "demand": 322.6139833209044,
+    "light_drones_needed": 17,
+    "heavy_drones_needed": 8
+  },
+  "18": {
+    "demand": 320.42864603407105,
+    "light_drones_needed": 17,
+    "heavy_drones_needed": 8
+  },
+  "19": {
+    "demand": 317.948893767297,
+    "light_drones_needed": 16,
+    "heavy_drones_needed": 8
+  },
+  "20": {
+    "demand": 226.83195066449946,
+    "light_drones_needed": 12,
+    "heavy_drones_needed": 5
+  },
+  "21": {
+    "demand": 176.83428543180526,
+    "light_drones_needed": 9,
+    "heavy_drones_needed": 3
+  },
+  "22": {
+    "demand": 137.66777065042584,
+    "light_drones_needed": 7,
+    "heavy_drones_needed": 2
+  },
+  "23": {
+    "demand": 93.83355613119919,
+    "light_drones_needed": 5,
+    "heavy_drones_needed": 0
+  }
+}

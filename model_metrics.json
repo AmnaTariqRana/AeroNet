@@ -1,0 +1,15 @@
+{
+  "best_model": "Random Forest",
+  "linear_regression": {
+    "mae": 108.78618645955778,
+    "rmse": 148.93255926624255,
+    "r2": 0.32799253768088943
+  },
+  "random_forest": {
+    "mae": 70.67215481321738,
+    "rmse": 103.72995872055172,
+    "r2": 0.6740108085111569
+  },
+  "total_daily_demand_forecast": 4404.671459099495,
+  "average_hourly_demand": 183.52797746247896
+}
